@@ -5,6 +5,7 @@
 1. [Forward (Singly linked) list with comparator](https://gist.github.com/ac1dloop/f920dc80a386c3eb1d00ecaa6b87062f)
 2. [check if stdlib supports C11 'secure' functions](https://gist.github.com/ac1dloop/a802f33a7122095906d7e7911b741109)
 3. [argp example](https://gist.github.com/ac1dloop/2728b6b8c0944f81b168e2ac42a1de15)
+4. [8bit buffer](https://gist.github.com/ac1dloop/ec8b504f6bae88a20d9cc6cd5f2fd66f)
 
 
 ## C++
